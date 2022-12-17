@@ -1,0 +1,35 @@
+.home {
+    width: 100%;
+    align-items: center;
+    font-family: "Arial", sans-serif;
+    color: red;
+  }
+
+  .projectButton {
+    background-color: pink;
+    color: white;
+  }
+  
+  .intro {
+    width: 100%;
+    height: calc(100vh - 100px);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    background-color: white;
+    color: black;
+  }
+  
+  .intro h2 {
+    font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 80px;
+    color: black;
+    height: 50px;
+  }
+  
+  .about .description {
+    width: 40%;
+    font-size: 30px;
+  }
